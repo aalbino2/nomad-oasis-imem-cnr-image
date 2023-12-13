@@ -1,12 +1,10 @@
 # nomad-oasis-imem-cnr-image
 
-```
+```sh
     image: ghcr.io/aalbino2/nomad-oasis-imem-cnr-image:pr-1
 ```
 
-
-
-```
+```sh
 submodule@example:~$ git clone --recurse-submodules https://gitlab.com/cameronmcnz/surface.git
 submodule@example:~$ cd sur*
 submodule@example:~$ git submodule update --remote
