@@ -1,7 +1,7 @@
 # nomad-oasis-imem-cnr-image
 
 ```
-    image: ghcr.io/fekad/nomad-oasis-ikz-image:pr-1
+    image: ghcr.io/aalbino2/nomad-oasis-imem-cnr-image:pr-1
 ```
 
 
